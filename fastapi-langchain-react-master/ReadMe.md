@@ -1,4 +1,3 @@
-# Embedding QA Bot
 
 This is a web application based on FastAPI (backend) and React (frontend).
 
@@ -14,10 +13,7 @@ This is a web application based on FastAPI (backend) and React (frontend).
 
 1. Clone the repository to your local machine:
 
-```shell
-git clone https://github.com/andrii0128/embedding-QA-bot.git
-```
-
+https://github.com/Mohit12217497/Whatfix-Project/edit/main/fastapi-langchain-react-master
 2. Change to the project directory:
 
 ```shell
@@ -95,9 +91,6 @@ npm start
 - **`backend`**: Contains the FastAPI backend code.
 - **`frontend`**: Contains the React frontend code and related assets.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
